@@ -7,3 +7,5 @@
 ```python3
 print("hello world")
 ```
+- [X] Make a task-list
+- [ ] Finish the course
