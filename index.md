@@ -1,3 +1,3 @@
 # Anay Kumar
-## University of Illiniois
+## University of Illinois
 ### May 27th
